@@ -1,23 +1,28 @@
-## Your Name
+## Muhammed (Aziz) Haque
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a software developer looking for work that is both meaningful and that can challenge me to continue learning, pushing the boundaries of my capabilities. I've previously worked in retail and healthcare sectors and also have a range of experiences volunteering for charities and youth organisations including my local Explorer Scouts. I've been drawn to and excited about purusing a career in tech because of how I can see it transform not only my life but the lives others via community led tech solutions. 
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Seedlings App**            | A webapp to do x. | React, Jest, etc. |
+| **Bank Tech Test** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**University College London Hospitals** (Nov 2021 to July 2022)  
+_Patient Flow Coordinator_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**John Lewis & Partners** (October 2019 to November 2020)  
+_Sales Partner_
+
+- Any experience relevent to software development
+
+**MVS London Ltd** (September 2018 to September 2019)  
+_Claims Handler_
 
 - Any experience relevent to software development
 
@@ -65,5 +70,9 @@ I honed my communication skills while completing my thesis at university, which 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
+
+Rock climbing / Cycling / Judo (signed up to start soon!!)
+Trying to become a polyglot
+
 
 Any cool stuff that makes you a super part of a software development team
