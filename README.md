@@ -49,18 +49,24 @@ Consider skills relevent to software development. Then consider projects you've 
 
 **University College London Hospitals** (Nov 2021 to July 2022)  
 _Patient Flow Coordinator_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Facilitated seamless patient discharges from the ward, reducing readmissions to ensure efficient care
+- Collaborated with range of medical specialists and stakeholders to streamline discharge process
+- Boosted success of attempted discharges by 30% on a weekly basis
 
 **John Lewis & Partners** (October 2019 to November 2020)  
 _Sales Partner_
+- Drove sales within the consumer electronics dept through product demonstrations and succinct technical comparisons
+- Championed quality service for my department, increasing customer satisfaction from mid 70% to above 90%
+- Advised customers on their best purchase options by understanding their needs and making use of a thorough knowledge of products and specification
 
-- Any experience relevent to software development
 
-**MVS London Ltd** (September 2018 to September 2019)  
+**MVS London Ltd** (September 2018 to December 2019)  
 _Claims Handler_
-
-- Any experience relevent to software development
+- Supervised upwards of 20 claims at any one time
+- Liaised with clients and stakeholders to bring claims to successful settlement
+- Assessed financial information to support cases and ensure equitable outcomes
+- Negotiated successful settlements on multiple claims simultaneously
+- Implemented changes to client onboarding process to reduce delays in claims by 45%
 
 
 ## Education
