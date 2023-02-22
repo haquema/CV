@@ -48,19 +48,19 @@
 
 ## Skills
 
-#### Agile principles and methodologies
+**Agile principles and methodologies**<br>
 I have an understanding and appreciation of Agile principles and making use of techniques/methodologies to foster an Agile environment. I prioritise a flexible approach to coding and product development in order to allow ideas to flourish whilst being able to shift focus appropriately. I have experience of employing stand-ups, retros, and organising sprints for effective work flow.
 
-#### Test Driven Development & Object Oriented Programming
-I am well versed in designing tests to guide my coding and designing my code in line with OOP principles. Relevance and importance of unit, integration and feature testing
+**Test Driven Development & Object Oriented Programming**<br>
+I am well versed in designing tests to guide my coding andesigning my code in line with OOP principles. Relevance and importance of unit, integration and feature testing
 
-#### Critical Mindset & Adaptability
+**Critical Mindset & Adaptability**<br>
 My background in maths and sciences has given me a strong ability to understand complex, abstract ideas. I approach problems in a methodical and logical manner to find a solution. I'm able to break down tasks/problems to identify and provide the best solution rather than a quick fix. Able to pick up concepts and work processes quickly. Love a steep learning curve - have worked in vastly different industries with minimal crossover and was able to pick up industry knowledge and practices in short time frame. Not intimidated by challenges. E.G. collated data from stakeholders and internal to identify bottleneck in claims process.
 
-#### Motivated Self-starter & Excellent Team Player
+**Motivated Self-starter & Excellent Team Player**<br>
 Able to organise and manage my own time to get tasks done. Take the initiative, identifying areas for improvement and formulating solutions. Take ownership of my work and performance. Able to liaise with a team, taking in to consideration each individual's priorities to find the optimum means of collaboration. Able to build rapport and excellent working relationships. Prioritise team cohesiveness and synergy - always happy to take advice and feedback on my approaches and ensure critisicm I give is constructive
 
-#### Effective Communication
+**Effective Communication**<br>
 
 - communicate clearly and effectively in writing and in person
 - break down complex technical specs and provide comparisons in digestible manner
@@ -75,8 +75,10 @@ Able to organise and manage my own time to get tasks done. Take the initiative, 
 
 ## Work Experience
 
-**University College London Hospitals** (Nov 2021 to July 2022)  
+**University College London Hospitals**
 _Patient Flow Coordinator_
+
+
 - Facilitated seamless patient discharges from the ward, reducing readmissions to ensure efficient care
 - Collaborated with range of medical specialists and stakeholders to streamline discharge process
 - Boosted success of attempted discharges by 30% on a weekly basis
