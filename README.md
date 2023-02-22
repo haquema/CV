@@ -1,83 +1,66 @@
-# Azizul Haque
+<div align="center">
+  <h1>Azizul Haque</h1>
+  <a href="mailto:haquema@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"</a>
+  <a href="https://www.linkedin.com/in/azizul-haque-831b5bb5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    </div>
 
-## Who am I?
-I've always had a curiousity for understanding how and why things work. It's why I chose to study Physics as a degree. But my interests aren't just restricted to the sciences. I believe you can discover an interest in most (if not all) topics and subjects. You just need to take the time to look deeper and learn about it's intricacies. 
+-----------
 
-I'm a curious and confident software developer looking to take on challenging roles to continue my growth and development. My prior work experiences have ranged from client facing services and sales to working in the healthcare industry. And throughout it all, I've excelled by using my skills to provide unparalleled work/service quality whilst also making impactful contributions to improve work processes. 
+<h2>A little about me</h2>
+  <p> 
+      I've always had a curiousity for understanding how and why things work. It's why I chose to study Physics as a degree. But my interests aren't just restricted to the sciences. I believe you can discover an interest in most (if not all) topics and subjects. You just need to take the time to look deeper and learn about it's intricacies. 
+    <br><br>
+    I'm a curious and confident software developer looking to take on challenging roles to continue my growth and development. My prior work experiences have ranged from client facing services and sales to working in the healthcare industry. And throughout it all, I've excelled by using my skills to provide unparalleled work/service quality whilst also making impactful contributions to improve work processes. 
+    <br><br>
+    Tech is playing an ever increasing role in our lives, both on an individual and societal level. I'm excited at the potential of community led tech solutions and hope to use the skills I gain to transform not only my life, but the lives of those around me. 
+  </p>
+  
+-----------
 
-Tech is playing an ever increasing role in our lives, both on an individual and societal level. I'm excited at the potential of community led tech solutions and hope to use the skills I gain to transform not only my life, but the lives of those around me. 
+<h2>My Projects</h2>
 
-## Projects
-
-| Name                   | Description       | Tech/tools        | Link to code/Video demo |
-| ---------------------- | ----------------- | ----------------- | ----------------- |
-| **Seedlings**          | App to help you take care of your plants  | MongoDB, Express, React, Node.js, Jest | [GitHub](https://github.com/haquema/seedlings-app) |
-| **Acebook**            | A clone of Facebook           | MongoDB, Express, React, Node.js, Jest | [GitHub](https://github.com/haquema/seedlings-app) |
-| **MakersBnB**          | A clone of AirBnB           | Ruby, Sinatra, PostgreSQL, RSpec | [GitHub](https://github.com/haquema/makersbnb-ruby-seed) | 
-| **Bank Tech Test**     | Tech test simulating a basic bank | Ruby, RSpec   | [GitHub](https://github.com/haquema/bank-techtest) |
+| Name                   | Description       | Tech/tools        |
+| ---------------------- | ----------------- | ----------------- |
+| [**Seedlings**](https://github.com/haquema/seedlings-app) | App to help you take care of your plants  | MongoDB, Express, React, Node.js, Jest |
+| [**Acebook**](https://github.com/haquema/seedlings-app) | A clone of Facebook           | MongoDB, Express, React, Node.js, Jest |
+| [**MakersBnB**](https://github.com/haquema/makersbnb-ruby-seed) | A clone of AirBnB           | Ruby, Sinatra, PostgreSQL, RSpec |
+| [**Bank Tech Test**](https://github.com/haquema/bank-techtest) | Tech test simulating a basic bank | Ruby, RSpec   |
 
 
-## Languages and Tools
-• Ruby, Python, Javascript
+<h2>Languages and Tools</h2>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Ruby-FF6A55?style=for-the-badge&logo=ruby&logoColor=FF6A55&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Javascript-f7e968?style=for-the-badge&logo=javascript&logoColor=f7e968&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Jest-B84D6F?style=for-the-badge&logo=jest&logoColor=B84D6F&labelColor=282828"><br>
+  <img src="https://img.shields.io/badge/-Node.js-80D857?style=for-the-badge&logo=node.js&logoColor=80D857&labelColor=282828">
+  <img src="https://img.shields.io/badge/-RSpec-F05892?style=for-the-badge&logo=ruby&logoColor=F05892&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-58D2F0?style=for-the-badge&logo=react&logoColor=58D2F0&labelColor=282828">
+  <img src="https://img.shields.io/badge/-MongoDB-51A940?style=for-the-badge&logo=mongodb&logoColor=51A940&labelColor=282828">
+  <img src="https://img.shields.io/badge/-PostgreSQL-3b3938?style=for-the-badge&logo=postgresql&logoColor=faf2ed&labelColor=282828"><br>
+  
+</div>
+</p>
 
-• HTML, CSS
+-----------
 
-• SQL, MongoDB
+## Skills
 
-• React.js, Node.js
+#### Agile principles and methodologies
+I have an understanding and appreciation of Agile principles and making use of techniques/methodologies to foster an Agile environment. I prioritise a flexible approach to coding and product development in order to allow ideas to flourish whilst being able to shift focus appropriately. I have experience of employing stand-ups, retros, and organising sprints for effective work flow.
 
-• PostgreSQL, RSpec, Jest
+#### Test Driven Development & Object Oriented Programming
+I am well versed in designing tests to guide my coding and designing my code in line with OOP principles. Relevance and importance of unit, integration and feature testing
 
-## My Skills
-### Technical
+#### Critical Mindset & Adaptability
+My background in maths and sciences has given me a strong ability to understand complex, abstract ideas. I approach problems in a methodical and logical manner to find a solution. I'm able to break down tasks/problems to identify and provide the best solution rather than a quick fix. Able to pick up concepts and work processes quickly. Love a steep learning curve - have worked in vastly different industries with minimal crossover and was able to pick up industry knowledge and practices in short time frame. Not intimidated by challenges. E.G. collated data from stakeholders and internal to identify bottleneck in claims process.
 
-<details><summary>Agile principles and methodologies</summary>
+#### Motivated Self-starter & Excellent Team Player
+Able to organise and manage my own time to get tasks done. Take the initiative, identifying areas for improvement and formulating solutions. Take ownership of my work and performance. Able to liaise with a team, taking in to consideration each individual's priorities to find the optimum means of collaboration. Able to build rapport and excellent working relationships. Prioritise team cohesiveness and synergy - always happy to take advice and feedback on my approaches and ensure critisicm I give is constructive
 
-- I have an understanding and appreciation of Agile principles and making use of techniques/methodologies to foster an Agile environment.
-- I prioritise a flexible approach to coding and product development in order to allow ideas to flourish whilst being able to shift focus appropriately.
-- I have experience of employing stand-ups, retros, and organising sprints for effective work flow.
-
-</details>
-
-<details><summary>Test Driven Development & Object Oriented Programming</summary>
-
-- I am able to code DRY 
-- Understanding and awareness of TDD and it's benefits to programming code
-- Relevance and importance of unti, integration and feature testing
-
-</details>
-
-### Non-Technical
-
-<details><summary>Problem Solving</summary>
-
-- Breaking down tasks/problems to provide the best solution rather than a quick fix
-- Studies in maths and sciences have given me strong foundation to understand complex and abstract ideas
-- methodical and logical approach to finding solutions 
-- E.G. collated data from stakeholders and internal to identify bottleneck in claims process
-
-</details>
-
-<details><summary>Adaptability</summary>
-
-- Able to pick up concepts and work processes quickly
-- Love a steep learning curve - have worked in vastly different industries with minimal crossover and was able to pick up industry knowledge and practices in short time frame
-- Not intimidated by challenges
-
-</details>
-
-<details><summary>Independent and Team worker</summary>
-
-- Able to organise and manage my own time to get tasks done.
-- Take the initiative, identifying areas for improvement and formulating solutions
-- Take ownership of my work and performance
-- Able to liaise with a team, taking in to consideration each individual's priorities to find the optimum means of collaboration
-- Able to build rapport and excellent working relationships
-- Prioritise team cohesiveness and synergy - always happy to take advice and feedback on my approaches and ensure critisicm I give is constructive
-
-</details>
-
-<details><summary>Communication</summary>
+#### Effective Communication
 
 - communicate clearly and effectively in writing and in person
 - break down complex technical specs and provide comparisons in digestible manner
@@ -87,14 +70,8 @@ Tech is playing an ever increasing role in our lives, both on an individual and 
 - allows me to work well in a team, especially remotely as most tech teams are currently
 - I prioritise the whole team being on board and having the same vision
 
-</details>
-
-<details><summary>Desire to Learn & Grow</summary>
-
-- A strong desire to perform to the highest ability
-- Insatiable learnign appetite and hunger for challenge
-
-</details>
+  
+-----------
 
 ## Work Experience
 
