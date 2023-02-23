@@ -8,7 +8,7 @@
 
 <h2>A little about me</h2>
 <p> 
-I've always had a curiousity for understanding how and why things work. It's why I chose to study Physics as a degree. But my interests aren't just restricted to the sciences. I believe you can discover an interest in most (if not all) topics and subjects. You just need to take the time to look deeper and learn about it's intricacies. 
+I've always had a curiosity for understanding how and why things work. It's why I chose to study Physics as a degree. But my interests aren't just restricted to the sciences. I believe you can discover an interest in most (if not all) topics and subjects. You just need to take the time to look deeper and learn about its intricacies. 
 <br><br>
 I'm a curious and confident software developer looking to take on challenging roles to continue my growth and development. My prior work experiences have ranged from client facing services and sales to working in the healthcare industry. And throughout it all, I've excelled by using my skills to provide unparalleled work/service quality whilst also making impactful contributions to improve work processes. 
 <br><br>
